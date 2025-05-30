@@ -9,10 +9,9 @@ Here is a link to the Jupyter Notebook https://github.com/saikiranbv/Classifiers
 ## Table of Contents
 
 1. [Business Understanding](#business-understanding)
-2. [Data Analysis](#data-understanding)
-3. [Visualization](#data-preparation)
-4. [Model Training](#model-training)
-5. [Evaluation](#evaluation)
+2. [Data Analysis](#data-analysis)
+3. [Visualization](#vizualization)
+4. [Data Preparation](#data-preparation)
 
 ## Business Understanding
 
@@ -26,15 +25,39 @@ The data will be sourced from the publicly available RetailRocket Recommender Sy
 	item_properties_part1.csv and item_properties_part2.csv – describe time-stamped item properties
 	category_tree.csv – describes the hierarchical relationships between product categories
 
+Here are the number of records in each file
+Events data: 2,756,101
+Category data: 1669
+Item data: 20,275,902
+
+Number of unique visitors = 1,407,580
+Number of unique items = 235,061
+Number of unique transactions = 17,673
 
 ## Visualization
 
-![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Event_tupe_pie.png)
-![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Event_type_count.png)
-![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/ReturningUsersvsNew.png)
-![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_Items_AddedtoCart.png)
+As the Item data is hashed and category data is only a parent child relationship, most of the analysis is from Events data. 
+
+### The Top 10 users are 
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_Users.png)
+
+### The distribution by event type
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Event_type_count.png)
+
+### The distribution by event type in a Pie chart
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Event_tupe_pie.png)
+
+### The Ten items that are viewed are 
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_Viewed_Items.png)
+
+### The Ten items that are added to cart are 
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_Items_AddedtoCart.png)
+
+### The Ten items that are purchased are 
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_sold_items.png)
 
+### The distribution of Customers returning vs New
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/ReturningUsersvsNew.png)
 
+
+## Data Preparation
