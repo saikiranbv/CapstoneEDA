@@ -11,7 +11,7 @@ Here is a link to the Jupyter Notebook https://github.com/saikiranbv/CapstoneEDA
 1. [Business Understanding](#business-understanding)
 2. [Data Analysis](#data-analysis)
 3. [Visualization](#vizualization)
-4. [Data Preparation](#data-preparation)
+4. [Modeling](#modeling)
 
 ## Business Understanding
 
@@ -60,4 +60,24 @@ As the Item data is hashed and category data is only a parent child relationship
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/ReturningUsersvsNew.png)
 
 
-## Data Preparation
+## Modeling
+
+Linear Regression: Used as a baseline model for comparison.
+Random Forest: Employed to capture non-linear relationships and improve predictive performance.
+Here are the results:
+
+### Linear Regression:
+Accuracy: 0.9916
+Precision: 0.8125
+Recall: 0.0055
+F1-Score: 0.0109
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Linear_Regression.png)
+
+
+### Random Forest:
+Accuracy: 0.9870
+Precision: 0.1235
+Recall: 0.0897
+F1-Score: 0.1040
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Random_Forest.png)
+
