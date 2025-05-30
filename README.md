@@ -30,16 +30,11 @@ The data will be sourced from the publicly available RetailRocket Recommender Sy
 ## Visualization
 
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Event_tupe_pie.png)
-
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Event_type_count.png)
-
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/ReturningUsersvsNew.png)
-
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_Items_AddedtoCart.png)
-
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_Users.png)
-
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_Viewed_Items.png)
-
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_sold_items.png)
+
 
