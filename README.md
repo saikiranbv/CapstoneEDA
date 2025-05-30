@@ -9,7 +9,7 @@ Here is a link to the Jupyter Notebook https://github.com/saikiranbv/Classifiers
 ## Table of Contents
 
 1. [Business Understanding](#business-understanding)
-2. [Data Understanding](#data-understanding)
+2. [Data Analysis](#data-understanding)
 3. [Data Preparation](#data-preparation)
 4. [Model Training](#model-training)
 5. [Evaluation](#evaluation)
