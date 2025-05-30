@@ -66,18 +66,14 @@ Linear Regression: Used as a baseline model for comparison.
 Random Forest: Employed to capture non-linear relationships and improve predictive performance.
 Here are the results:
 
+ Model                 | Test Accuracy | Precision | Recall  | F1 Score |
+|----------------------|---------------|-----------|---------|----------|
+| Logistic Regression  | 0.9916        | 0.8125    | 0.0055  | 0.0109   |
+| Random Forest        | 0.9870        | 0.1235    | 0.0897  | 0.1040   |
+
 ### Linear Regression:
-Accuracy: 0.9916
-Precision: 0.8125
-Recall: 0.0055
-F1-Score: 0.0109
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Linear_Regression.png)
 
-
 ### Random Forest:
-Accuracy: 0.9870
-Precision: 0.1235
-Recall: 0.0897
-F1-Score: 0.1040
 ![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Random_Forest.png)
 
