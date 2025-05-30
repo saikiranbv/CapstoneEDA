@@ -10,7 +10,7 @@ Here is a link to the Jupyter Notebook https://github.com/saikiranbv/Classifiers
 
 1. [Business Understanding](#business-understanding)
 2. [Data Analysis](#data-understanding)
-3. [Data Preparation](#data-preparation)
+3. [Visualization](#data-preparation)
 4. [Model Training](#model-training)
 5. [Evaluation](#evaluation)
 
@@ -21,11 +21,25 @@ The primary objective is to accurately predict item properties associated with “
 ## Data Analysis
 
 The data will be sourced from the publicly available RetailRocket Recommender System Dataset https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset which includes:
+
 	events.csv – records user interactions (view, add to cart, transaction)
 	item_properties_part1.csv and item_properties_part2.csv – describe time-stamped item properties
 	category_tree.csv – describes the hierarchical relationships between product categories
 
 
-## Data Preparation
+## Visualization
 
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Event_tupe_pie.png)
+
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Event_type_count.png)
+
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/ReturningUsersvsNew.png)
+
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_Items_AddedtoCart.png)
+
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_Users.png)
+
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_Viewed_Items.png)
+
+![image](https://github.com/saikiranbv/CapstoneEDA/blob/main/images/Top_ten_sold_items.png)
 
