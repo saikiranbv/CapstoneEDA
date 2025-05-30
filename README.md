@@ -4,7 +4,7 @@
 
 The objective of this project is to Understanding user behavior through implicit signals like clicks and views is crucial for building effective recommender systems in real-world e-commerce platforms. Being able to predict preferences from limited interaction data helps personalize user experience, boosting engagement and conversions. Simultaneously, detecting and removing abnormal traffic is essential to ensure the recommendations are based on genuine customer behavior and do not suffer from noise or bias—leading to better decision-making and higher ROI for businesses.
 
-Here is a link to the Jupyter Notebook https://github.com/saikiranbv/Classifiers/blob/main/Bank_Marketing_analysis.ipynb
+Here is a link to the Jupyter Notebook https://github.com/saikiranbv/CapstoneEDA/blob/main/capstoneEDA.ipynb
 
 ## Table of Contents
 
