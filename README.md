@@ -63,7 +63,9 @@ As the Item data is hashed and category data is only a parent child relationship
 ## Modeling
 
 Linear Regression: Used as a baseline model for comparison.
+
 Random Forest: Employed to capture non-linear relationships and improve predictive performance.
+
 Here are the results:
 
  Model                 | Test Accuracy | Precision | Recall  | F1 Score |
